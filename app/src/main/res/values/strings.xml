@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PlusSignUp</string>
+    <string name="action_setting">settings</string>
+    <string name="button_logout_for_google">log out</string>
+    <string name="button_revoke_access">revoke access</string>
+
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "312279167398",
+    "project_id": "firebase-plussignup"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312279167398:android:659a9ba1cc334f76",
+        "android_client_info": {
+          "package_name": "com.study.plussignup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "312279167398-t8moqbkpqbemjqecttcqer9hih7hd4qb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.study.plussignup",
+            "certificate_hash": "9179293414c19ac4a656fcb89c746a470ae508db"
+          }
+        },
+        {
+          "client_id": "312279167398-2dj0hjp332ahll8p2u6al9b367taagmb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyButPUA17hI8rB-8gwMis4mdDVRV6oiAE8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
